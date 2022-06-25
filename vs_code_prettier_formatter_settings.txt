@@ -20,6 +20,9 @@ in settings.json:
     "[python]": {
         "editor.defaultFormatter": "ms-python.python"
     },
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
 
 
 
